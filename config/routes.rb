@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get "/" to: "toad#index"
+  root to: "toad#index"
 end
