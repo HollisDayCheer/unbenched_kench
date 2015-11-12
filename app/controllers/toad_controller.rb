@@ -1,0 +1,2 @@
+class ToadController < ApplicationController
+end
